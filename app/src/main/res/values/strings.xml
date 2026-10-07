@@ -1,3 +1,13 @@
 <resources>
-  <string name="app_name">Article View</string>
+    <string name="app_name">User View</string>
+    <string name="users_title">Danh sách người dùng</string>
+    <string name="users_subtitle">Chọn một người dùng để xem hồ sơ</string>
+    <string name="loading_users">Đang tải người dùng…</string>
+    <string name="no_users">Chưa có người dùng.</string>
+    <string name="load_users_error">Không thể tải người dùng. Hãy kiểm tra dữ liệu JSON.</string>
+    <string name="user_not_found">Không tìm thấy người dùng.</string>
+    <string name="user_id">Mã người dùng: %1$d</string>
+    <string name="profile_image">Ảnh đại diện</string>
+    <string name="biography_title">Giới thiệu</string>
+    <string name="user_detail_title">Hồ sơ người dùng</string>
 </resources>

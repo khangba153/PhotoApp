@@ -26,6 +26,10 @@ android {
     targetCompatibility JavaVersion.VERSION_1_8
   }
   namespace 'thanhdnh.ueh.edu.article_app'
+
+  sourceSets {
+    test.resources.srcDir 'src/main/assets'
+  }
 }
 
 dependencies {

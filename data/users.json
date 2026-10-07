@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "An Nguyễn",
+      "password": "demo1123",
+      "url_profile": "file:///android_asset/profiles/user_1.png",
+      "short_bio": "Sinh viên yêu thích lập trình Android và thiết kế giao diện."
+    },
+    {
+      "id": 2,
+      "uname": "Bình Trần",
+      "password": "demo2123",
+      "url_profile": "file:///android_asset/profiles/user_2.png",
+      "short_bio": "Thích chụp ảnh, đọc sách và khám phá những địa điểm mới."
+    },
+    {
+      "id": 3,
+      "uname": "Chi Lê",
+      "password": "demo3123",
+      "url_profile": "file:///android_asset/profiles/user_3.png",
+      "short_bio": "Đang học Java. Mong muốn xây dựng ứng dụng hữu ích cho mọi người."
+    },
+    {
+      "id": 4,
+      "uname": "Dũng Phạm",
+      "password": "demo4123",
+      "url_profile": "file:///android_asset/profiles/user_4.png",
+      "short_bio": "Yêu thể thao và thích làm việc cùng các bạn trong nhóm."
+    },
+    {
+      "id": 5,
+      "uname": "Hà Võ",
+      "password": "demo5123",
+      "url_profile": "file:///android_asset/profiles/user_5.png",
+      "short_bio": "Quan tâm đến trải nghiệm người dùng và các sản phẩm sáng tạo."
+    },
+    {
+      "id": 6,
+      "uname": "Minh Đỗ",
+      "password": "demo6123",
+      "url_profile": "file:///android_asset/profiles/user_6.png",
+      "short_bio": "Thích tìm hiểu công nghệ và chia sẻ kiến thức lập trình."
+    }
+  ]
+}
